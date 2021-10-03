@@ -1,6 +1,6 @@
 # demo linear search function
 # froddy
-# 26-09-2021
+# 27-09-2021
 
 # initialise and populate an array e.g. mylist = [1,2,3,4,5,6]
 # to search it: call function passing a list and the target value to find
